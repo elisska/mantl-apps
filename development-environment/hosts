@@ -1,0 +1,10 @@
+10.100.0.39 cdh-worker-04.cisco.com cdh-worker-04
+10.100.0.41 cdh-worker-03.cisco.com cdh-worker-03
+10.100.0.38 cdh-worker-02.cisco.com cdh-worker-02
+10.100.0.43 cdh-worker-01.cisco.com cdh-worker-01
+10.100.0.42 cdh-worker-06.cisco.com cdh-worker-06
+10.100.0.44 cdh-worker-05.cisco.com cdh-worker-05
+10.100.0.46 cdh-master-02.cisco.com cdh-master-02
+10.100.0.45 cdh-master-01.cisco.com cdh-master-01
+10.100.0.40 cdh-edge-01.cisco.com cdh-edge-01
+10.100.0.47 devhost.cisco.com devhost
