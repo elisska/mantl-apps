@@ -7,7 +7,7 @@
     <version>1.0</version>
     <packaging>pom</packaging>
 
-    <name>Mantl Apps</name>
+    <name>Mantl Apps elliska</name>
 
     <modules>
         <module>benchmarking-apps</module>
