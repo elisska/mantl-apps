@@ -28,7 +28,7 @@
         <cassandra.connector.version>1.3.1</cassandra.connector.version>
         <cassandra.driver.version>2.1.5</cassandra.driver.version>
         <cassandra.test.version>2.1.3.2-SNAPSHOT</cassandra.test.version>
-        <hadoop.version>2.7.1</hadoop.version>
+        <hadoop.version>3.2.3</hadoop.version>
         <scopt.version>3.3.0</scopt.version>
         <hector.client.version>2.0-0</hector.client.version>
 
