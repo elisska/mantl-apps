@@ -37,7 +37,7 @@
         <spark.kafka.test.version>0.2</spark.kafka.test.version>
         <hadoop.version>2.7.1</hadoop.version>
         <scopt.version>3.3.0</scopt.version>
-        <cdh.test>2.0.0-cdh4.5.0</cdh.test>
+        <cdh.test>3.2.3</cdh.test>
         <cdh.mrl.test>2.0.0-mr1-cdh4.5.0</cdh.mrl.test>
     </properties>
 
